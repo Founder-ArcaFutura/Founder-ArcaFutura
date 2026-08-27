@@ -75,5 +75,5 @@ If you are working on one of these problems and think there may be overlap,
 ---
 
 <p align="center">
-  <sub>Empirical AI systems research · Toronto, Canada</sub>
+  <sub>Empirical AI systems research · Inspectable claims · Reproducible artifacts</sub>
 </p>
