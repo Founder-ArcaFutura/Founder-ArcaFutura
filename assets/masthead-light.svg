@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Adrian Hau</title>
+  <desc id="desc">AI systems research, empirical evaluation, and training-time observability</desc>
+  <rect width="1200" height="320" rx="18" fill="#f7f5f1"/>
+  <path d="M0 250H1200M0 195H1200M0 140H1200M0 85H1200" stroke="#ddd8cf" stroke-width="1"/>
+  <path d="M720 232 C772 224 792 105 846 117 C899 129 915 214 969 204 C1023 194 1040 69 1090 84 C1138 98 1153 164 1200 146" fill="none" stroke="#a45f3d" stroke-width="4"/>
+  <path d="M720 251 C773 248 797 202 846 206 C897 210 918 238 969 232 C1022 226 1046 178 1090 185 C1139 193 1160 217 1200 211" fill="none" stroke="#23262b" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="846" cy="117" r="6" fill="#a45f3d"/>
+  <circle cx="1090" cy="84" r="6" fill="#a45f3d"/>
+  <path d="M72 67H150" stroke="#a45f3d" stroke-width="5"/>
+  <text x="72" y="157" fill="#17191d" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-2">ADRIAN HAU</text>
+  <text x="76" y="201" fill="#4d5056" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">AI SYSTEMS RESEARCH</text>
+  <text x="76" y="239" fill="#4d5056" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">EMPIRICAL EVALUATION</text>
+  <text x="76" y="277" fill="#4d5056" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">TRAINING-TIME OBSERVABILITY</text>
+  <text x="1129" y="286" text-anchor="end" fill="#77716a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">OBSERVE / MEASURE / TEST</text>
+</svg>
