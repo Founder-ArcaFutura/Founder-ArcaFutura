@@ -7,12 +7,16 @@
 <p align="center">
   <strong>AI systems researcher · Model evaluator · Technical founder</strong>
 </p>
+<p align="center"><i>
+  Pro uno in tenebris ubi nemo umquam sciet aut videbit.</i>
+</p>  
 
 <p align="center">
   Co-founder &amp; CTO at <a href="https://github.com/PYPER3"><strong>PYPER³</strong></a>
   &nbsp;·&nbsp;
   Founder of <a href="https://www.arcafutura.com/"><strong>Arca Futura</strong></a>
 </p>
+
 
 <p align="center">
   <a href="#featured-research">Research</a>
@@ -21,6 +25,8 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.arcafutura.com/">Contact</a>
 </p>
+
+
 
 ---
 
